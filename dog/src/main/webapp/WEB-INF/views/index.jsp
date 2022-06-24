@@ -61,6 +61,6 @@ body {
    <a href="/loginok">회원 이용</a>
    <a href="/mapmain">비회원 이용</a> 
    </div>
-    <p>gitpushTest</p>
+    <p>gitpushTest2</p>
 </body>
 </html>
